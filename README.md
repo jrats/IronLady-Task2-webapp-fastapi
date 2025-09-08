@@ -46,20 +46,23 @@ VADER Sentiment Analyzer used to classify text as positive, negative, or neutral
 1. Clone this repository
 
 git clone https://github.com/your-username/employee-crud-sentiment.git
+
 cd employee-crud-sentiment
 
 2. Create and activate a virtual environment (recommended)
 python -m venv venv
+
 source venv/bin/activate   # On Linux/Mac
+
 venv\Scripts\activate      # On Windows
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-4. Run the FastAPI server
+5. Run the FastAPI server
 uvicorn main:app --reload
 
-5. Open the Swagger UI
+6. Open the Swagger UI
 
 Go to 👉 http://127.0.0.1:8000/docs
  in your browser.
