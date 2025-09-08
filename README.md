@@ -45,7 +45,7 @@ VADER Sentiment Analyzer used to classify text as positive, negative, or neutral
 ▶️ How to Run the Code
 1. Clone this repository
 
-git clone https://github.com/your-username/employee-crud-sentiment.git
+git clone https://github.com/jrats/IronLady-Task2-webapp-fastapi.git
 
 cd employee-crud-sentiment
 
